@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Beacham
+- 👋 Hi, I’m John Beacham, an independent web/WordPress designer and developer
 - 👀 I’m looking for a job as a WordPress or web developer
 - 👀 I'm also looking to design, develop and/or administer more websites!
 - 📫 How to reach me ... jdbeacham@yahoo.com
