@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Beacham, a Level II WordPress Support Technician, specializing in PHP, CSS and WordPress hooks customizations. I am happily and busily buidling a large and growing set of WordPress skills, including plugin and theme development, debugging, troubleshooting, fixing, design and more.
-- 🔌 Plugin knowledge: The Events Calendar, WooCommerce, ACF, Elementor, Divi, 
+- 🔌 Plugin knowledge: The Events Calendar, WooCommerce, ACF, Elementor, Divi, ...
 - 👀 I’m looking for a WordPress job. I 🫀 WordPress!
 - 👀 I'm also looking for freelance work customizing, fixing and improving websites!
 - 📫 How to reach me ... jdbeacham@yahoo.com
